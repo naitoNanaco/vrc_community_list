@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vrc_community_list/static/css/main.5f361e03.chunk.css",
+    "main.js": "/vrc_community_list/static/js/main.d21dfb24.chunk.js",
+    "main.js.map": "/vrc_community_list/static/js/main.d21dfb24.chunk.js.map",
+    "runtime-main.js": "/vrc_community_list/static/js/runtime-main.9b37654a.js",
+    "runtime-main.js.map": "/vrc_community_list/static/js/runtime-main.9b37654a.js.map",
+    "static/js/2.a5c986b6.chunk.js": "/vrc_community_list/static/js/2.a5c986b6.chunk.js",
+    "static/js/2.a5c986b6.chunk.js.map": "/vrc_community_list/static/js/2.a5c986b6.chunk.js.map",
+    "index.html": "/vrc_community_list/index.html",
+    "precache-manifest.165c0ffee9f4905d080a48bcdbbc18ee.js": "/vrc_community_list/precache-manifest.165c0ffee9f4905d080a48bcdbbc18ee.js",
+    "service-worker.js": "/vrc_community_list/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/vrc_community_list/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a5c986b6.chunk.js.LICENSE.txt": "/vrc_community_list/static/js/2.a5c986b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b37654a.js",
+    "static/js/2.a5c986b6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d21dfb24.chunk.js"
+  ]
+}
